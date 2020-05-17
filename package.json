@@ -1,0 +1,19 @@
+{
+  "name": "chatbot_app",
+  "version": "1.0.0",
+  "description": "Telegram chatbot application ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhanush",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "engines": {
+    "node": "12.16.1"
+  }
+}
